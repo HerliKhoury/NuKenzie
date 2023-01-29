@@ -1,0 +1,51 @@
+button{
+    cursor: pointer;
+}
+
+.small_pink{
+    width: 241px;
+    height: 48px;
+    color: var(--color_white);
+    background-color: var(--color_primary);
+    border: none;
+    border-radius: 8px;
+    font-size: var(--font_size-16);
+    font-weight: 500;
+}
+
+.small_pink:hover{
+    background-color: var(--color_primary2);
+    color: var(--color_grey1);
+}
+
+.small_grey{
+    width: 64px;
+    height: 40px;
+    background-color: var(--color_grey2);
+    border: none;
+    border-radius: 8px;
+    color: var(--color_grey3);
+    font-size: var(--font_size-14);
+    font-weight: 600;
+}
+
+.small_grey:hover{
+    background-color: var(--color_grey3);
+    color: var(--color_grey1);
+}
+
+.large_pink{
+    width: 100%;
+    height: 48px;
+    color: var(--color_white);
+    background-color: var(--color_primary);
+    border: none;
+    border-radius: 8px;
+    font-size: var(--font_size-16);
+    font-weight: 500;
+}
+
+.large_pink:hover{
+    background-color: var(--color_primary2);
+    color: var(--color_grey1);
+}

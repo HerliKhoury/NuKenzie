@@ -1,0 +1,24 @@
+.title_1-home{
+    font-size: var(--font_size-38);
+    font-weight: 800;
+}
+
+.headline-home{
+    font-size: var(--font_size-16);
+    font-weight: 400;
+}
+
+.body-home{
+    font-size: var(--font_size-12);
+    font-weight: 400;    
+}
+
+.body-user{
+    font-size: var(--font_size-12);
+    font-weight: 400;    
+}
+
+.title_3-user{
+    font-size: var(--font_size-16);
+    font-weight: 700;
+}

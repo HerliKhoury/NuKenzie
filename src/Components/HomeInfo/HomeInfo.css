@@ -1,0 +1,26 @@
+.info_div{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    width: 374px;
+    height: 330px;
+}
+
+.logo_home{
+    width: 122.68px;
+    height: 19.53px;
+}
+
+.title_home{
+    color: var(--color_white);
+    line-height: 48px;
+}
+
+.info_div span{
+    color: var(--color_white);
+    line-height: 26px;
+}
+
+.info_div button{
+    margin-top: 40px;
+}
