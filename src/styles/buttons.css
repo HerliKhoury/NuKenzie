@@ -49,3 +49,13 @@ button{
     background-color: var(--color_primary2);
     color: var(--color_grey1);
 }
+
+.delete_btn{
+    border: none;
+    background-image:url("../assets/images/trash_can.svg");
+    width: 23px;
+}
+
+.delete_btn:hover{
+    background-image:url("../assets/images/trash_can_hover.svg");
+}

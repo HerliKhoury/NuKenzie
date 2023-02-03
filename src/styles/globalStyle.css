@@ -4,6 +4,7 @@
     --color_white: #FFFFFF;
     --color_primary: #FD377E;
     --color_primary2: #E34981;
+    --color_secondary: #03B898;
     --color_grey1: #F8F9FA;
     --color_grey2: #E9ECEF;
     --color_grey3: #343440;
@@ -11,6 +12,7 @@
     --color_grey5: #868E96;
 
     --font_size-38: 2.375rem;
+    --font_size-22: 1.375rem;
     --font_size-16: 1rem;
     --font_size-14: 0.875rem;
 

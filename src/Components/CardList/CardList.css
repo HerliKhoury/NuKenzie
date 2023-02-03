@@ -1,0 +1,19 @@
+.wrap_CardsList{
+    display: flex;
+    flex-direction: column;
+}
+
+.empty_div{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-bottom: 30px;
+}
+
+
+
+@media(min-width: 1024px){
+    .wrap_CardsList{
+        width: 50%;
+    }
+} 

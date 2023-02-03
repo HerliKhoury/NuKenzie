@@ -1,0 +1,18 @@
+.wrap_dashboard{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+
+
+@media(min-width: 1024px){
+    .wrap_dashboard{
+        flex-direction: row;
+        justify-content: space-between;
+        gap: 10%;
+    }   
+    .wrap_left{
+        width: 45%;
+    }
+}

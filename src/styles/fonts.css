@@ -22,3 +22,8 @@
     font-size: var(--font_size-16);
     font-weight: 700;
 }
+
+.title_2-user{
+    font-size: var(--font_size-22);
+    font-weight: 700;
+}
